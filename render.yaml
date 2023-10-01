@@ -9,15 +9,15 @@ services:
     branch: main
     autoDeploy: false
     envVars:
-      - key: BOT_TOKEN
+      - key: TOKEN
         sync: false
       - key: API_ID
         sync: false
       - key: API_HASH
         sync: false
-      - key: FORCE_SUB
+      - key: ADMIN
         sync: false
-      - key: LOG_CHANNEL
+      - key: DB_URL
         sync: false
       - key: DB_NAME
         sync: false
