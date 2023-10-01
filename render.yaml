@@ -23,9 +23,11 @@ services:
         sync: false
       - key: DB_URL
         sync: false
-      - key: START_PIC
+      - key: LAZY_PIC
         sync: false
       - key: ADMIN
         sync: false
       - key: WEBHOOK
+        sync: false
+      - key: BOT_USERNAME
         sync: false
