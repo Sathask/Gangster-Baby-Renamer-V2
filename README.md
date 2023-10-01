@@ -39,7 +39,9 @@
 </a>
 </p>
 </details>
-
+<a href="https://render.com/deploy?repo=https://github.com/Sathask/Gangster-Baby-Renamer-V2/tree/main">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
